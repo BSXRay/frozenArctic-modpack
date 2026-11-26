@@ -1,0 +1,10 @@
+{
+  "allowMovement": {
+    "com.li64.tide.client.gui.screens.journal.FishingJournal": true,
+    "com.github.alexthe666.alexsmobs.client.gui.GUIAnimalDictionary": true
+  },
+  "hideBackground": {
+    "com.li64.tide.client.gui.screens.journal.FishingJournal": true,
+    "com.github.alexthe666.alexsmobs.client.gui.GUIAnimalDictionary": true
+  }
+}

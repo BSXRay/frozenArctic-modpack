@@ -1,0 +1,12 @@
+﻿# Excluded per user request
+screenshots/
+saves/
+command_history.txt
+ponders_watched.json
+usercache.json
+usernamecache.json
+cache/
+crash-reports/
+crashreports/
+logs/
+schematics/
