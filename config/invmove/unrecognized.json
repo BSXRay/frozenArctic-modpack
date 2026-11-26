@@ -3,7 +3,9 @@
     "com.li64.tide.client.gui.screens.journal.FishingJournal": true,
     "com.github.alexthe666.alexsmobs.client.gui.GUIAnimalDictionary": true,
     "punchymoves.client.tutorial.TutorialScreen": true,
-    "mezz.jei.gui.recipes.RecipesGui": true
+    "mezz.jei.gui.recipes.RecipesGui": true,
+    "com.simibubi.create.content.schematics.table.SchematicTableScreen": true,
+    "dev.simulated_team.simulated.content.blocks.redstone.linked_typewriter.screen.LinkedTypewriterScreen": true
   },
   "hideBackground": {
     "com.li64.tide.client.gui.screens.journal.FishingJournal": true,

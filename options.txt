@@ -1,7 +1,7 @@
 version:3955
 ao:true
 biomeBlendRadius:2
-enableVsync:true
+enableVsync:false
 entityDistanceScaling:1.0
 entityShadows:true
 forceUnicodeFont:false
@@ -14,9 +14,9 @@ glintStrength:0.75
 prioritizeChunkUpdates:0
 fullscreen:false
 gamma:0.5
-graphicsMode:1
+graphicsMode:0
 guiScale:0
-maxFps:120
+maxFps:100
 mipmapLevels:4
 narrator:0
 particles:0
@@ -221,6 +221,8 @@ key_create.keyinfo.ctrl_modifier:key.keyboard.left.control
 key_create.keyinfo.alt_modifier:key.keyboard.left.alt
 key_key.presencefootsteps.settings:key.keyboard.f10
 key_keybind.invmove.toggleMove:key.keyboard.unknown
+key_key.punchy.triggerable.punchy_sword_inspect_rework:key.keyboard.g
+key_key.punchy.triggerable.punchy_sword_inspect_old:key.keyboard.j
 key_key.punchy_moves.camera_toggle_v:key.keyboard.v
 key_key.punchy_moves.camera_editor:key.keyboard.f7
 key_key.punchy_moves.free_camera:key.keyboard.b
@@ -229,8 +231,6 @@ key_key.punchy_moves.emote.hello:key.keyboard.h
 key_key.punchy_moves.emote.hello_b:key.keyboard.j
 key_key.punchy_moves.emote.cool_emote:key.keyboard.k
 key_key.punchy_moves.emote.shuuba_dance:key.keyboard.l
-key_key.punchy.triggerable.punchy_sword_inspect_rework:key.keyboard.g
-key_key.punchy.triggerable.punchy_sword_inspect_old:key.keyboard.j
 soundCategory_master:1.0
 soundCategory_music:0.0
 soundCategory_record:1.0
