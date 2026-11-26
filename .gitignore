@@ -10,3 +10,8 @@ crash-reports/
 crashreports/
 logs/
 schematics/
+
+# Server branch: exclude client-only files
+resourcepacks/
+shaderpacks/
+options.txt
