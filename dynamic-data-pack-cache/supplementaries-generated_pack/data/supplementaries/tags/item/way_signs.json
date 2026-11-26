@@ -11,5 +11,6 @@
     "supplementaries:way_sign_oak",
     "supplementaries:way_sign_spruce",
     "supplementaries:way_sign_warped"
-  ]
+  ],
+  "remove": []
 }

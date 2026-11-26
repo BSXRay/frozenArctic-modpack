@@ -9,5 +9,6 @@
     "supplementaries:cannon_boat_mangrove",
     "supplementaries:cannon_boat_oak",
     "supplementaries:cannon_boat_spruce"
-  ]
+  ],
+  "remove": []
 }

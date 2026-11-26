@@ -1,10 +1,13 @@
 {
   "allowMovement": {
     "com.li64.tide.client.gui.screens.journal.FishingJournal": true,
-    "com.github.alexthe666.alexsmobs.client.gui.GUIAnimalDictionary": true
+    "com.github.alexthe666.alexsmobs.client.gui.GUIAnimalDictionary": true,
+    "punchymoves.client.tutorial.TutorialScreen": true,
+    "mezz.jei.gui.recipes.RecipesGui": true
   },
   "hideBackground": {
     "com.li64.tide.client.gui.screens.journal.FishingJournal": true,
-    "com.github.alexthe666.alexsmobs.client.gui.GUIAnimalDictionary": true
+    "com.github.alexthe666.alexsmobs.client.gui.GUIAnimalDictionary": true,
+    "mezz.jei.gui.recipes.RecipesGui": true
   }
 }
